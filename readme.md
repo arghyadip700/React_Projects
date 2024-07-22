@@ -1,1 +1,1 @@
-Learning React for front end.
+Learning React through creating several projects.
