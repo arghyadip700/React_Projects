@@ -1,1 +1,1 @@
-Learning React through creating several projects.
+Learning React JS through creating several projects.
